@@ -7,3 +7,14 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: dataVisualizationTools
+  title: What tool is right for my project?
+  sections:
+  - file: excel
+    title: ... Excel
+  - file: tableau
+    title: ... Tableau
+  - file: python
+    title: ... Python
+  - file: r_language
+    title: ... R

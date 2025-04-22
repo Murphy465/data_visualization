@@ -5,9 +5,9 @@
 
 #######################################################################################
 # Book settings
-title                       : Research_Commons  # The title of the book. Will be placed in the left navbar.
-author                      : Sarah Murphy  # The author of the book
-copyright                   : "2025"  # Copyright year to be placed in the footer
+title                       : Data Visualization  # The title of the book. Will be placed in the left navbar.
+author                      : Sarah Murphy, Data Literacy and Data Visualization Librarian  # The author of the book
+copyright                   : "The Ohio State University Libraries, 2025"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
@@ -26,7 +26,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/Murphy465/Research_Commons  # Online location of your book
+  url: https://github.com/Murphy465/  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 

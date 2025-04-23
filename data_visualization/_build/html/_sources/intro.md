@@ -25,10 +25,7 @@ It can also help us share our data in meaninful and effective ways.
 >#### Choose the right chart for your data and the purpose of the visualization.
 >This is one of the most difficult and rewarding aspects of visualizing data. Fortunately, a small number of graphs, when skillfully formatted and presented, fulfill most data visualization needs.
 >
->The __[Financial Times Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/FT4schools_RGS.pdf)__ groups charts into various categories, such as deviation, ranking, distribution, and magnitude, to help you match your data to the relationship that is most important to visualize.
->
->![Financial Times Visual Vocabulary](ft_visual_vocabulary.avif 'Financial Times Visual Vocabulary')
->
+>The __[Financial Times Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)__ groups charts into various categories, such as deviation, ranking, distribution, and magnitude, to help you match your data to the relationship that is most important to visualize.
 >
 >To help you display a relationship, comparison, composition, or distribution, __[Abela's Chart Chooser](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)__ directs you to various charts based on the number of dimenstions -- or categories -- and/or the number of measures or vairable -- you have to visualize.
 >

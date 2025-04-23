@@ -4,9 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
 - file: dataVisualizationTools
   title: What tool is right for my project?
   sections:
